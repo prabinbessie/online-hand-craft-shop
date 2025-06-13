@@ -178,7 +178,4 @@ This is just a college project, so feel free to use it however you want. Just do
 **Made with ❤️ (and lots of coffee) during my 4th semester Project-1**
 
 *P.S. - If you're also a student working on something similar, feel free to reach out if you need help. We're all in this together!*
-=======
-# online-hand-craft-shop
-e-commerce website  for my 4 th semester project 
->>>>>>> 7fe5a90a824eb9a4fe32bebaa8e2717ecc4fcc64
+
