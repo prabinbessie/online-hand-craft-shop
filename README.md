@@ -13,7 +13,7 @@
 
 This platform bridges the gap between traditional Nepali handicraft artisans and modern e-commerce, providing a comprehensive online marketplace where authentic handmade products meet digital convenience.
 
-** Core Mission:** Preserve and promote Nepal's rich handicraft heritage through accessible online commerce.
+**Core Mission:** Preserve and promote Nepal's rich handicraft heritage through accessible online commerce.
 
 ---
 
@@ -152,7 +152,7 @@ This platform bridges the gap between traditional Nepali handicraft artisans and
 2. **Database Configuration**
    ```sql
    CREATE DATABASE handcraft_shop;
-   -- Import provided SQL schema
+   -- Import  SQL schema
    ```
 
 3. **Database Connection Setup**
@@ -279,7 +279,7 @@ online-hand-craft-shop/
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 ### **Version 2.0 Roadmap**
 - 🔐 **Enhanced Security** - Two-factor authentication
